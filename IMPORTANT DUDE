@@ -1,0 +1,1 @@
+TO DEPLOY IN REACT IS THE SAME ADS THE FIRST WAY BUT : IN json file instead of deploy : put this :   "deploy":"npm run build && gh-pages -d build"
